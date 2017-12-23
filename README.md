@@ -13,6 +13,8 @@ Setup instructions
 	
 8. Configure the path of the dataset accordingly in the source file dskvd.m at line 30:
 
-outerdir = <Your image path>;
+outerdir = [Your image path];
 
 9. Run the script dskvd.m.
+
+You can read the project details and theory in the Project_Report.pdf file.
